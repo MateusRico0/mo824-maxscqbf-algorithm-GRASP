@@ -1,0 +1,3 @@
+instance,config,seed,total_iterations,total_time,best_cost,time_best_sol,iterations_best_sol
+scqbf_200_3.txt,GRASP_RANDOM_GREEDY,0,1,7.353172,103374.000000,7.353171,1
+scqbf_200_3.txt,GRASP_RANDOM_GREEDY,1,1,2.216263,102719.000000,2.216260,1

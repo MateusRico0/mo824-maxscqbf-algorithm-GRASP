@@ -1,0 +1,2 @@
+instance,config,seed,total_iterations,total_time,best_cost,time_best_sol,iterations_best_sol
+ALL,GRASP_RANDOM_GREEDY,ALL,2,9.569435,103374.000000,7.353171,1
